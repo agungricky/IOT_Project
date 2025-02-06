@@ -1,4 +1,4 @@
-@extends('main.layout')
+@extends('layout')
 @section('content')
     <!-- Container Fluid-->
     <div class="container-fluid" id="container-wrapper">

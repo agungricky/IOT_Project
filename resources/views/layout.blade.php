@@ -16,17 +16,17 @@
 
 <body id="page-top">
     <div id="wrapper">
-        @include('main.sidebar')
+        @include('sidebar')
 
         <div id="content-wrapper" class="d-flex flex-column">
             <div id="content">
 
-                @include('main.navbar')
+                @include('navbar')
 
                 @yield('content')
             </div>
 
-            @include('main.footer')
+            @include('footer')
         </div>
     </div>
 

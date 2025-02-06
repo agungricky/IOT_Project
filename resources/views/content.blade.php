@@ -25,7 +25,11 @@
                                 </div>
                             </div>
                             <div class="col-auto">
+<<<<<<< HEAD
                                 <i class="fas fa-calendar fa-2x text-primary"></i>
+=======
+                                <i class="fas fa-blog fa-2x text-primary"></i>
+>>>>>>> 372fdc7 (06/02/2025)
                             </div>
                         </div>
                     </div>
@@ -46,7 +50,11 @@
                                 </div>
                             </div>
                             <div class="col-auto">
+<<<<<<< HEAD
                                 <i class="fas fa-shopping-cart fa-2x text-success"></i>
+=======
+                                <i class="fas fa-wifi fa-2x text-success"></i>
+>>>>>>> 372fdc7 (06/02/2025)
                             </div>
                         </div>
                     </div>
@@ -67,7 +75,11 @@
                                 </div>
                             </div>
                             <div class="col-auto">
+<<<<<<< HEAD
                                 <i class="fas fa-users fa-2x text-info"></i>
+=======
+                                <i class="fas fa-cloud-rain fa-2x text-info"></i>
+>>>>>>> 372fdc7 (06/02/2025)
                             </div>
                         </div>
                     </div>
@@ -88,7 +100,11 @@
                                 </div>
                             </div>
                             <div class="col-auto">
+<<<<<<< HEAD
                                 <i class="fas fa-comments fa-2x text-warning"></i>
+=======
+                                <i class="fas fa-fire fa-2x text-warning"></i>
+>>>>>>> 372fdc7 (06/02/2025)
                             </div>
                         </div>
                     </div>
